@@ -1,0 +1,8 @@
+7
+1#gv1#Pham Thuy#Xay Dung#2#4#1999#Dong Nai#0123456789
+2#sv1#Thuy Trang#CNTT#1#2#1998#2017
+1#gv2#Xuan Thao#Tieng Han#8#7#2010#Tp HCM#0123121111
+1#gv3#Xuan Thu#Tieng Anh#1#2#2012#Dong Nai#013456789
+2#sv2#Chinh#Luat#3#12#1999#2017
+2#sv3#Giau#Kinh doanh#4#2#2010#2018
+1#gv1#Phan Thi Trinh#CNTT#1#1#1999#DongNai# 08523551
